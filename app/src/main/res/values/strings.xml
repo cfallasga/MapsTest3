@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MapsTest3</string>
+
+    <string name="label_from">Dirección de origen %s</string>
+    <string name="label_to">Dirección de destino  %s</string>
+    <string name="Modificar">Modificar</string>
+    <string name="label_distance">Distancia</string>
+    <string name="label_time">Tiempo</string>
+    <string name="marker_Title_To">Hasta</string>
+    <string name="marker_Title_From">Desde</string>
+
 </resources>
